@@ -25,4 +25,4 @@ def predict(wine: Wine):
     return {"Prediction": pred}
     
     
-# this comment is for testing purpose
+# this comment is for testing
